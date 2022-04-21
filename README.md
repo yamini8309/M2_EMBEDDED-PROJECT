@@ -1,5 +1,4 @@
 # M2_EMBEDDED-PROJECT
-# M2_EMBEDDED-PROJECT
 # TITLE:  GSM BASED CONTROL SYSTEM
 
 This project is aimed to design a system to control the electrical devices in industries or homes by using GSM technology.
