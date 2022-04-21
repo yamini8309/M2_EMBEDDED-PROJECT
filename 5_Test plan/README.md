@@ -1,4 +1,4 @@
-TEST PLAN FOR GSM BASED CONTROL SYSTEM
+TEST PLAN FOR GSM BASED CONTROL SYSTEM.
 Set up of the schematics
 After the setup is done start running and it will ask to enter the password
 Now let us enter the wrong password first..we will enter 2222.
