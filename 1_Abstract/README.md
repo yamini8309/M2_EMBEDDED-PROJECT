@@ -31,3 +31,10 @@ devices in accordance with the received password.
  This project uses regulated 5V, 500mA power supply. Unregulated 12V DC is used for relay. 
  7805 three terminal voltage regulator is used for voltage regulation. Bridge type full
 wave rectifier is used to rectify the ac output of secondary of 230/12V step down transformer.
+ 
+APPLICATIONS:
+- Industrial applications
+- House hold applications
+- Automatic meter reading
+- Mobile telephony
+- Value added services
