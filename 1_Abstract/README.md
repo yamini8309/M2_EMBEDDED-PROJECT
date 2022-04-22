@@ -24,3 +24,10 @@ The modem can either be connected to PC serial port directly or to any microcont
  The GSM modem receives this message and intimates the same to the microcontroller. 
  Now it is the job of the controller to switch ON/OFF the corresponding
 devices in accordance with the received password. 
+ If the password entered is wrong, the system alerts the buzzer immediately. 
+ This method of operating the appliances helps in providing security to the devices and also power is saved up to some extent. 
+ A buzzer will be interfaced to the controller for providing warning sounds.
+ A 16X2 LCD will be interfaced to the controller to display the status of the loads.
+ This project uses regulated 5V, 500mA power supply. Unregulated 12V DC is used for relay. 
+ 7805 three terminal voltage regulator is used for voltage regulation. Bridge type full
+wave rectifier is used to rectify the ac output of secondary of 230/12V step down transformer.
